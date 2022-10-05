@@ -1,6 +1,6 @@
 import React from "react";
 
-const CartInfo = ({ book, removeItem, changeQuantity}) => {
+const CartInfo = ({ book, removeItem, changeQuantity }) => {
   return (
     <div className="cart__item">
       <div className="cart__book">
